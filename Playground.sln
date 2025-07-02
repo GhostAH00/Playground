@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground", "Playground\Playground.csproj", "{A14B763D-EAF0-487B-B733-4E47413DA248}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaygroundTeste", "CalculadoraTeste\PlaygroundTeste.csproj", "{2F5A34F3-89FB-4894-A773-6839D0B83691}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A14B763D-EAF0-487B-B733-4E47413DA248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A14B763D-EAF0-487B-B733-4E47413DA248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A14B763D-EAF0-487B-B733-4E47413DA248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A14B763D-EAF0-487B-B733-4E47413DA248}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F5A34F3-89FB-4894-A773-6839D0B83691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F5A34F3-89FB-4894-A773-6839D0B83691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F5A34F3-89FB-4894-A773-6839D0B83691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F5A34F3-89FB-4894-A773-6839D0B83691}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34BDFB7B-D60D-4F6E-A0E6-42F3108BA3AE}
+	EndGlobalSection
+EndGlobal
