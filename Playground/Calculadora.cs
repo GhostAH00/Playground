@@ -17,6 +17,11 @@ namespace Playground
 
         public int Divisao(int numA, int numB)
         {
+            if (numB  == 0)
+            {
+                return 0;
+            }
+
             return numA / numB;
         }
 
